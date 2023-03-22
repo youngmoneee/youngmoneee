@@ -1,4 +1,4 @@
-### Hi there 👋
+# 🔥 
 
 <!--
 **youngmoneee/youngmoneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github
+![Youngmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmoneee&show_icons=true&theme=gruvbox_light)
+<br>
+### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngseo321)](https://solved.ac/youngseo321/)
+
+### 42
+[![youngpar's 42 stats](https://badge42.vercel.app/api/v2/clfjc9neu004908l7eo0j4jy6/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
